@@ -1,0 +1,25 @@
+
+
+
+.title {
+  font-family: helvetica;
+  font-size: 60px;
+}
+.blurb{
+  font-family: helvetica;
+  font-size: 30px;
+  background-color: pink;
+}
+.link-title{
+  font-family: helvetica;
+  text-align: center;
+}
+.link-pic{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.about{
+  font-family: helvetica;
+  text-align: center;
+}
